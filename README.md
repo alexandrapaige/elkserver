@@ -1,2 +1,2 @@
-# elkserver
+# scripts
 lorem ipsum
